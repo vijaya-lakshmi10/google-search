@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.suggestion-list-items{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;  
+}
+.suggestion-items{
+    display: flex;
+    justify-content: space-between;
+}
+.suggestion-list{
+    color:#475569;
+    font-family: "Roboto";
+    font-size:18px;
+}
+.arrow-img{
+    height:30px;
+    width:30px;
+}
+.search-btn{
+    outline: none;
+    cursor: pointer;
+    background: none;
+    border:0;
+}
+
